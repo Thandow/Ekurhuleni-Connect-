@@ -1,5 +1,3 @@
-# Ekurhuleni-Connect-
-A comprehensive AI-powered Fault Management system to Ekurhuleni Municipality.
 # 🏙️ AI-Powered Fault Management System  
 ### Ekurhuleni Metropolitan Municipality
 
